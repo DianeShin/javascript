@@ -1,5 +1,5 @@
 /* 
-Question link : https://leetcode.com/problems/two-sum/
+Question link : https://www.acmicpc.net/problem/1000
 
 Runtime : 152 ms
 Memory : 9480 KB
