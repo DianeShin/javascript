@@ -4,7 +4,7 @@ Question link : https://www.acmicpc.net/problem/8393
 Runtime : 152 ms
 Memory : 9476 KB
 
-Time Complexity : O(1)
+Time Complexity : O(n)
 
 Space Complexity : O(1)
 
